@@ -1,0 +1,17 @@
+
+body {
+  background-color: blue;
+  color:white;
+  margin-left: 40%;
+  margin-right: 45%;
+  font-size: 20px;
+}
+
+h1 {
+  color: purple;
+}
+
+p {
+  color: white;
+  margin-right: -10%;
+}
