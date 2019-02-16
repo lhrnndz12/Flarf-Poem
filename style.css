@@ -1,5 +1,7 @@
 
 body {
+  font-family: Helvetica;
+  font-size: 20px;
   background-color: blue;
   color:white;
   margin-left: 40%;
@@ -8,10 +10,41 @@ body {
 }
 
 h1 {
-  color: purple;
+  font-size: 60px;
+  padding-left: 20px;
+  padding-right: 200px;
+  border width: 5pt;
+  border-color: white;
+  background: black;
+  color: #b8babc;
 }
 
-p {
+p.one {
+
+  background-color:#acb2b7;
   color: white;
-  margin-right: -10%;
+
+}
+p.two {
+  color: white ;
+  background-color:  #a2adb5;
+}
+ul{
+  font-family: Impact, Charcoal, sans-serif;
+  color: black;
+}
+p.three{
+  color: white;
+  background-color: #778893;
+}
+p.four {
+  color: white;
+  background-color: #586e7c ;
+}
+p.five {
+  color: white;
+  background-color: #3d5463
+}
+p.six {
+  background-color: #22343f;
 }
